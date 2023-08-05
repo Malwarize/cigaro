@@ -1,6 +1,6 @@
 # Cigar 
 <p align=center>
-<img src="https://github.com/Malwarize/cigaro/assets/130087473/8c69f0d7-c4b2-4937-bf38-7593a7ecb8fa" />
+<image src="https://github.com/Malwarize/cigaro/assets/130087473/8c69f0d7-c4b2-4937-bf38-7593a7ecb8fa" />
 </p>
 <h2 align=center>wrapper framework for any command line tool</h2> 
 
