@@ -1,5 +1,9 @@
 # Cigar 
-wrapper framework for any command line tool
+<p align=center>
+<img src="https://github.com/Malwarize/cigaro/assets/130087473/b2c2e336-4f3d-4bf3-b74a-54de498455b5)"/>
+</p>
+<h2 align=center>wrapper framework for any command line tool</h2> 
+
 # Installation
 ```bash
 pip install cigaro
